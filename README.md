@@ -6,7 +6,8 @@
 ```javascript
 const gileade = {
   pronouns: "he" || "him",
-  techStack: ["HTML", "CSS", "Javascript", "Tailwind CSS", "React", "Node.js", "Typescript", "Git", "Github"] // still learning
+  techStack: ["HTML", "CSS", "Javascript", "Tailwind CSS", "React",
+  "Node.js", "Typescript", "Git", "Github"] // still learning
   currentFocus: "one step every day",
   advice: "don't work hard, work smart!",
   challenge: "to infinity and beyond",
